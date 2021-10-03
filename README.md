@@ -7,3 +7,8 @@ Used Libraries:
 [xUnit.net](https://github.com/xunit/xunit)
 
 [Fluent Assertions](https://github.com/fluentassertions/fluentassertions)
+
+
+CI/CD platform:
+
+[GitHub Actions](https://github.com/features/actions)
