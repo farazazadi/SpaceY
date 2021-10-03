@@ -2,6 +2,9 @@
 
 # SpaceY
 
+A simple library that will help determine if rockets can land on a platform or not.
+
+
 Used Libraries:
 
 [xUnit.net](https://github.com/xunit/xunit)
